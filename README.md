@@ -21,7 +21,10 @@ devtools::install_github("sharlagelfand/ropenscipackagesreviewed)
 
 The list of packages is available internally, in
 `ropenscipackagesreviewed::ropensci_packages`, or [in a
-CSV](https://github.com/sharlagelfand/ropenscipackagesreviewed/data-raw/ropensci_packages.csv).
+CSV](https://github.com/sharlagelfand/ropenscipackagesreviewed/blob/master/data-raw/ropensci_packages.csv).
+The code to get the packages is [also
+available](https://github.com/sharlagelfand/ropenscipackagesreviewed/blob/master/data-raw/ropensci_packages.R).
+
 If a package had a GitHub issue onboarding URL in the registry, it is
 considered to have gone through (or be going through) rOpenSci software
 review. If the issue is closed, then I’m considering the review
