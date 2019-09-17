@@ -35,20 +35,20 @@ review. If the issue is closed, then I’m considering the review
 library(ropenscipackagesreviewed)
 
 ropensci_packages
-#> # A tibble: 406 x 5
-#>    name        software_review review_status issue_created issue_closed
-#>    <chr>       <lgl>           <chr>         <date>        <date>      
-#>  1 auk         TRUE            Completed     2017-07-19    2018-08-26  
-#>  2 genbankr    TRUE            Completed     2016-05-20    2016-08-03  
-#>  3 treeio      TRUE            Completed     2018-01-03    2018-03-20  
-#>  4 apipkgen    FALSE           <NA>          NA            NA          
-#>  5 arresteddev FALSE           <NA>          NA            NA          
-#>  6 aspacer     FALSE           <NA>          NA            NA          
-#>  7 available   FALSE           <NA>          NA            NA          
-#>  8 bindertools FALSE           <NA>          NA            NA          
-#>  9 blogyaml    FALSE           <NA>          NA            NA          
-#> 10 cchecks     FALSE           <NA>          NA            NA          
-#> # ... with 396 more rows
+#> # A tibble: 406 x 6
+#>    name  software_review onboarding_issue review_status issue_created
+#>    <chr> <lgl>           <chr>            <chr>         <date>       
+#>  1 auk   TRUE            https://github.~ Completed     2017-07-19   
+#>  2 genb~ TRUE            https://github.~ Completed     2016-05-20   
+#>  3 tree~ TRUE            https://github.~ Completed     2018-01-03   
+#>  4 apip~ FALSE           <NA>             <NA>          NA           
+#>  5 arre~ FALSE           <NA>             <NA>          NA           
+#>  6 aspa~ FALSE           <NA>             <NA>          NA           
+#>  7 avai~ FALSE           <NA>             <NA>          NA           
+#>  8 bind~ FALSE           <NA>             <NA>          NA           
+#>  9 blog~ FALSE           <NA>             <NA>          NA           
+#> 10 cche~ FALSE           <NA>             <NA>          NA           
+#> # ... with 396 more rows, and 1 more variable: issue_closed <date>
 ```
 
 ``` r

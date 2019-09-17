@@ -30,15 +30,15 @@ get_issue_metadata <- function(onboarding_url) {
   issue_closed <- ifelse(issue_state == "closed", issue_data[["closed_at"]], NA_character_)
 
   tibble::tibble(
-    created = as.Date(issue_created),
+    issue_created = as.Date(issue_created),
     state = issue_state,
-    closed = as.Date(issue_closed)
+    issue_closed = as.Date(issue_closed)
   )
 }
 
 software_review_packages <- software_review_packages %>%
   mutate(gh_metadata = map(onboarding, get_issue_metadata)) %>%
-  select(name, gh_metadata) %>%
+  select(name, onboarding_issue = onboarding, gh_metadata) %>%
   unnest()
 
 ropensci_packages <- packages %>%
@@ -47,7 +47,7 @@ ropensci_packages <- packages %>%
          review_status = case_when(state == "closed" ~ "Completed",
                                    state == "open" ~ "In Progress",
                                    !software_review ~ NA_character_)) %>%
-  select(name, software_review, review_status, issue_created = created, issue_closed = closed) %>%
+  select(name, software_review, onboarding_issue, review_status, issue_created, issue_closed) %>%
   as_tibble()
 
 write.csv(ropensci_packages, "data-raw/ropensci_packages.csv", row.names = FALSE)
