@@ -9,6 +9,8 @@ Authors@R:
 Description: Gets information on rOpenSci packages and whether they have gone through 
     software review.
 License: MIT + file LICENSE
+Depends: 
+    R (>= 2.10)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
