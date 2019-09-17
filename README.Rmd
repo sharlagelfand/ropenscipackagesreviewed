@@ -11,13 +11,14 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "75%",
   message = FALSE,
+  warning = FALSE,
   dpi = 300
 )
 ```
 
 # ropenscipackagesreviewed
 
-This package contains a list of R packages in the rOpenSci registry and metadata on whether they have gone through the rOpenSci software review process (as of 2019-09-16).
+This package contains a list of R packages in the [rOpenSci registry](https://github.com/ropensci/roregistry/) and metadata on whether they have gone through the rOpenSci software review process (as of 2019-09-17).
 
 ## Installation
 
@@ -34,13 +35,13 @@ The list of packages is available internally, in `ropenscipackagesreviewed::rope
 
 If a package had a GitHub issue onboarding URL in the registry, it is considered to have gone through (or be going through) rOpenSci software review. If the issue is closed, then I'm considering the review "Completed" -- if it's still open, "In Progress".
 
-```{r}
+```{r packages}
 library(ropenscipackagesreviewed)
 
 ropensci_packages
 ```
 
-```{r}
+```{r n-packages}
 library(dplyr)
 
 n_ropensci_packages <- nrow(ropensci_packages)
@@ -58,7 +59,7 @@ Of the `r n_ropensci_packages` packages in the rOpenSci registry, `r scales::per
 
 The following shows the number of packages that went through review each year, where the GitHub issue closed date is when the review is considered to be completed. Note that, of course, 2019 is not over yet!
 
-```{r}
+```{r packages-reviewed-by-year}
 library(ggplot2)
 library(lubridate)
 
@@ -79,7 +80,7 @@ ropensci_packages_review_completed %>%
 
 We can also look at how long it takes packages to go through review (again, looking at the GitHub issue created/closed date as a proxy). The following shows the distribution of days from issue created to closed:
 
-```{r}
+```{r days-to-review}
 ropensci_packages_review_completed <- ropensci_packages_review_completed %>%
   mutate(issue_created_to_closed = as.numeric(issue_closed - issue_created))
 
@@ -94,7 +95,7 @@ ggplot(ropensci_packages_review_completed,
   theme_minimal(14)
 ```
 
-```{r}
+```{r days-to-review-median}
 issue_created_to_closed_summary <- summary(ropensci_packages_review_completed[["issue_created_to_closed"]])
 ```
 
@@ -102,7 +103,7 @@ Of all rOpenSci packages that have gone through software review, 50% complete re
 
 The following shows the median number of days it takes packages to go through review, by review year, along with the number of packages (shown above, but as a reminder!).
 
-```{r}
+```{r days-to-review-median-by-year}
 library(knitr)
 
 ropensci_packages_review_completed %>%

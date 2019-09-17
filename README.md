@@ -3,9 +3,10 @@
 
 # ropenscipackagesreviewed
 
-This package contains a list of R packages in the rOpenSci registry and
-metadata on whether they have gone through the rOpenSci software review
-process (as of 2019-09-16).
+This package contains a list of R packages in the [rOpenSci
+registry](https://github.com/ropensci/roregistry/) and metadata on
+whether they have gone through the rOpenSci software review process (as
+of 2019-09-17).
 
 ## Installation
 
@@ -73,7 +74,6 @@ considered to be completed. Note that, of course, 2019 is not over yet\!
 
 ``` r
 library(ggplot2)
-#> Warning: package 'ggplot2' was built under R version 3.5.2
 library(lubridate)
 
 ropensci_packages_review_completed <- ropensci_packages_review_completed %>%
@@ -91,7 +91,7 @@ ropensci_packages_review_completed %>%
   theme_minimal(14)
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="75%" />
+<img src="man/figures/README-packages-reviewed-by-year-1.png" width="75%" />
 
 We can also look at how long it takes packages to go through review
 (again, looking at the GitHub issue created/closed date as a proxy). The
@@ -112,7 +112,7 @@ ggplot(ropensci_packages_review_completed,
   theme_minimal(14)
 ```
 
-<img src="man/figures/README-unnamed-chunk-5-1.png" width="75%" />
+<img src="man/figures/README-days-to-review-1.png" width="75%" />
 
 ``` r
 issue_created_to_closed_summary <- summary(ropensci_packages_review_completed[["issue_created_to_closed"]])
@@ -127,7 +127,6 @@ above, but as a reminder\!).
 
 ``` r
 library(knitr)
-#> Warning: package 'knitr' was built under R version 3.5.3
 
 ropensci_packages_review_completed %>%
   group_by(`Review Year` = review_year) %>%
