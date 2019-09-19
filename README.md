@@ -6,7 +6,7 @@
 This package contains a list of R packages in the [rOpenSci
 registry](https://github.com/ropensci/roregistry/) and metadata on
 whether they have gone through the rOpenSci software review process (as
-of 2019-09-17).
+of 2019-09-19).
 
 ## Installation
 
@@ -28,27 +28,30 @@ available](https://github.com/sharlagelfand/ropenscipackagesreviewed/blob/master
 
 If a package had a GitHub issue onboarding URL in the registry, it is
 considered to have gone through (or be going through) rOpenSci software
-review. If the issue is closed, then I’m considering the review
-“Completed” – if it’s still open, “In Progress”.
+review. If the issue has the [“6/approved”
+label](https://github.com/ropensci/software-review/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A6%2Fapproved+)
+on it, then I’m considering the package to have been “Approved”
+(regardless of whether the issue is open or closed). If it doesn’t, then
+the review is “In Progress”.
 
 ``` r
 library(ropenscipackagesreviewed)
 
 ropensci_packages
 #> # A tibble: 406 x 6
-#>    name  software_review onboarding_issue review_status issue_created
-#>    <chr> <lgl>           <chr>            <chr>         <date>       
-#>  1 auk   TRUE            https://github.~ Completed     2017-07-19   
-#>  2 genb~ TRUE            https://github.~ Completed     2016-05-20   
-#>  3 tree~ TRUE            https://github.~ Completed     2018-01-03   
-#>  4 apip~ FALSE           <NA>             <NA>          NA           
-#>  5 arre~ FALSE           <NA>             <NA>          NA           
-#>  6 aspa~ FALSE           <NA>             <NA>          NA           
-#>  7 avai~ FALSE           <NA>             <NA>          NA           
-#>  8 bind~ FALSE           <NA>             <NA>          NA           
-#>  9 blog~ FALSE           <NA>             <NA>          NA           
-#> 10 cche~ FALSE           <NA>             <NA>          NA           
-#> # ... with 396 more rows, and 1 more variable: issue_closed <date>
+#>    name  software_review onboarding_issue issue_labels review_status
+#>    <chr> <lgl>           <chr>            <chr>        <chr>        
+#>  1 auk   TRUE            https://github.… 6/approved,… Approved     
+#>  2 genb… TRUE            https://github.… 6/approved,… Approved     
+#>  3 tree… TRUE            https://github.… 6/approved,… Approved     
+#>  4 apip… FALSE           <NA>             <NA>         <NA>         
+#>  5 arre… FALSE           <NA>             <NA>         <NA>         
+#>  6 aspa… FALSE           <NA>             <NA>         <NA>         
+#>  7 avai… FALSE           <NA>             <NA>         <NA>         
+#>  8 bind… FALSE           <NA>             <NA>         <NA>         
+#>  9 blog… FALSE           <NA>             <NA>         <NA>         
+#> 10 cche… FALSE           <NA>             <NA>         <NA>         
+#> # … with 396 more rows, and 1 more variable: issue_created <date>
 ```
 
 ``` r
@@ -57,8 +60,8 @@ library(dplyr)
 n_ropensci_packages <- nrow(ropensci_packages)
 ropensci_packages_review <- ropensci_packages %>%
   filter(software_review)
-ropensci_packages_review_completed <- ropensci_packages_review %>%
-  filter(review_status == "Completed")
+ropensci_packages_review_approved <- ropensci_packages_review %>%
+  filter(review_status == "Approved")
 ropensci_packages_review_in_progress <- ropensci_packages_review %>%
   filter(review_status == "In Progress")
 ropensci_packages_no_review <- ropensci_packages %>%
@@ -66,20 +69,22 @@ ropensci_packages_no_review <- ropensci_packages %>%
 ```
 
 Of the 406 packages in the rOpenSci registry, 30.0% (122) have gone
-through review (118) or are still in review (4).
+through review (121) or are still in review (1).
 
 The following shows the number of packages that went through review each
-year, where the GitHub issue closed date is when the review is
-considered to be completed. Note that, of course, 2019 is not over yet\!
+year, using the GitHub issue *create* date for the review year. Of
+course, some packages may not be approved the same year the issue is
+opened (especially if it happens towards the end of the year), and 2019
+is not over yet\!
 
 ``` r
 library(ggplot2)
 library(lubridate)
 
-ropensci_packages_review_completed <- ropensci_packages_review_completed %>%
-  mutate(review_year = year(issue_closed))
+ropensci_packages_review_approved <- ropensci_packages_review_approved %>%
+  mutate(review_year = year(issue_created))
 
-ropensci_packages_review_completed %>%
+ropensci_packages_review_approved %>%
   count(review_year) %>%
   arrange(review_year) %>%
   ggplot(aes(x = review_year, y = n)) +
@@ -92,53 +97,3 @@ ropensci_packages_review_completed %>%
 ```
 
 <img src="man/figures/README-packages-reviewed-by-year-1.png" width="75%" />
-
-We can also look at how long it takes packages to go through review
-(again, looking at the GitHub issue created/closed date as a proxy). The
-following shows the distribution of days from issue created to closed:
-
-``` r
-ropensci_packages_review_completed <- ropensci_packages_review_completed %>%
-  mutate(issue_created_to_closed = as.numeric(issue_closed - issue_created))
-
-ggplot(ropensci_packages_review_completed,
-       aes(x = issue_created_to_closed)) + 
-  geom_histogram(binwidth = 30) + 
-  scale_x_continuous(breaks = seq(0, max(ropensci_packages_review_completed[["issue_created_to_closed"]]), 90)) + 
-  labs(x = "Number of Days",
-       y = "Number of Packages",
-       title = "rOpenSci Software Review Time",
-       subtitle = "Number of days from GitHub issue created to closed.") + 
-  theme_minimal(14)
-```
-
-<img src="man/figures/README-days-to-review-1.png" width="75%" />
-
-``` r
-issue_created_to_closed_summary <- summary(ropensci_packages_review_completed[["issue_created_to_closed"]])
-```
-
-Of all rOpenSci packages that have gone through software review, 50%
-complete review within 92.5 days.
-
-The following shows the median number of days it takes packages to go
-through review, by review year, along with the number of packages (shown
-above, but as a reminder\!).
-
-``` r
-library(knitr)
-
-ropensci_packages_review_completed %>%
-  group_by(`Review Year` = review_year) %>%
-  summarise(`Median Days from Issue Created to Closed` = median(issue_created_to_closed),
-            `Number of Packages` = n()) %>%
-  kable()
-```
-
-| Review Year | Median Days from Issue Created to Closed | Number of Packages |
-| ----------: | ---------------------------------------: | -----------------: |
-|        2015 |                                     42.0 |                  5 |
-|        2016 |                                     72.5 |                 20 |
-|        2017 |                                     99.5 |                 30 |
-|        2018 |                                    104.0 |                 43 |
-|        2019 |                                     97.5 |                 20 |

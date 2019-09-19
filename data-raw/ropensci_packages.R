@@ -23,31 +23,32 @@ software_review_packages <- packages %>%
 get_issue_metadata <- function(onboarding_url) {
   issue_endpoint <- sub("https://github.com/", "/repos/", onboarding_url)
 
-  issue_data <- gh(paste("GET", issue_endpoint))
+  issue_data <- gh(issue_endpoint)
+
+  labels <- issue_data[["labels"]]
+  labels <- transpose(labels)
+  labels <- paste0(labels[["name"]], collapse = ",")
 
   issue_created <- issue_data[["created_at"]]
-  issue_state <- issue_data[["state"]]
-  issue_closed <- ifelse(issue_state == "closed", issue_data[["closed_at"]], NA_character_)
 
-  tibble::tibble(
+  tibble(
     issue_created = as.Date(issue_created),
-    state = issue_state,
-    issue_closed = as.Date(issue_closed)
+    issue_labels = labels
   )
 }
 
 software_review_packages <- software_review_packages %>%
   mutate(gh_metadata = map(onboarding, get_issue_metadata)) %>%
-  select(name, onboarding_issue = onboarding, gh_metadata) %>%
-  unnest()
+  unnest(gh_metadata) %>%
+  select(name, onboarding_issue = onboarding, issue_created, issue_labels)
 
 ropensci_packages <- packages %>%
   left_join(software_review_packages, by = "name") %>%
-  mutate(software_review = !is.na(state),
-         review_status = case_when(state == "closed" ~ "Completed",
-                                   state == "open" ~ "In Progress",
+  mutate(software_review = !is.na(onboarding_issue),
+         review_status = case_when(str_detect(issue_labels, "6/approved") ~ "Approved",
+                                   !str_detect(issue_labels, "6/approved") ~ "In Progress",
                                    !software_review ~ NA_character_)) %>%
-  select(name, software_review, onboarding_issue, review_status, issue_created, issue_closed) %>%
+  select(name, software_review, onboarding_issue, issue_labels, review_status, issue_created) %>%
   as_tibble()
 
 write.csv(ropensci_packages, "data-raw/ropensci_packages.csv", row.names = FALSE)
