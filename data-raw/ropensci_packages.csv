@@ -1,407 +1,407 @@
-"name","software_review","onboarding_issue","issue_labels","review_status","issue_created"
-"auk",TRUE,"https://github.com/ropensci/onboarding/issues/136","6/approved,package,topic:data-access","Approved",2017-07-19
-"genbankr",TRUE,"https://github.com/ropensci/onboarding/issues/47","6/approved,package,topic:data-access,topic:geospatial,topic:molecular-biology,topic:parsing","Approved",2016-05-20
-"treeio",TRUE,"https://github.com/ropensci/onboarding/issues/179","6/approved,package,pub:mee,topic:data-munging,topic:phylogenetics","Approved",2018-01-03
-"apipkgen",FALSE,NA,NA,NA,NA
-"arresteddev",FALSE,NA,NA,NA,NA
-"aspacer",FALSE,NA,NA,NA,NA
-"available",FALSE,NA,NA,NA,NA
-"bindertools",FALSE,NA,NA,NA,NA
-"blogyaml",FALSE,NA,NA,NA,NA
-"cchecks",FALSE,NA,NA,NA,NA
-"changes",FALSE,NA,NA,NA,NA
-"checkers",FALSE,NA,NA,NA,NA
-"citecorp",FALSE,NA,NA,NA,NA
-"clock",FALSE,NA,NA,NA,NA
-"colorpiler",FALSE,NA,NA,NA,NA
-"conditionz",FALSE,NA,NA,NA,NA
-"convertr",FALSE,NA,NA,NA,NA
-"craft",FALSE,NA,NA,NA,NA
-"cricketdata",FALSE,NA,NA,NA,NA
-"datapkg",FALSE,NA,NA,NA,NA
-"datasauce",FALSE,NA,NA,NA,NA
-"dataspice",FALSE,NA,NA,NA,NA
-"datastorr",FALSE,NA,NA,NA,NA
-"decapitated",FALSE,NA,NA,NA,NA
-"defender",FALSE,NA,NA,NA,NA
-"dirdf",FALSE,NA,NA,NA,NA
-"dissemr",FALSE,NA,NA,NA,NA
-"eechidna",FALSE,NA,NA,NA,NA
-"emldown",FALSE,NA,NA,NA,NA
-"feetures",FALSE,NA,NA,NA,NA
-"flipper",FALSE,NA,NA,NA,NA
-"ftp",FALSE,NA,NA,NA,NA
-"gendercodeR",FALSE,NA,NA,NA,NA
-"geoflowr",FALSE,NA,NA,NA,NA
-"geojsonrewind",FALSE,NA,NA,NA,NA
-"geolocart",FALSE,NA,NA,NA,NA
-"ghrecipes",FALSE,NA,NA,NA,NA
-"gramr",FALSE,NA,NA,NA,NA
-"hirsutosa",FALSE,NA,NA,NA,NA
-"hoasts",FALSE,NA,NA,NA,NA
-"icon",FALSE,NA,NA,NA,NA
-"identifires",FALSE,NA,NA,NA,NA
-"jobstatus",FALSE,NA,NA,NA,NA
-"keybase",FALSE,NA,NA,NA,NA
-"laselva",FALSE,NA,NA,NA,NA
-"leafier",FALSE,NA,NA,NA,NA
-"makeregistry",FALSE,NA,NA,NA,NA
-"mchtoolbox",FALSE,NA,NA,NA,NA
-"middlechild",FALSE,NA,NA,NA,NA
-"miner",FALSE,NA,NA,NA,NA
-"motifator",FALSE,NA,NA,NA,NA
-"notary",FALSE,NA,NA,NA,NA
-"oauthlib",FALSE,NA,NA,NA,NA
-"ochRe",FALSE,NA,NA,NA,NA
-"opencv",FALSE,NA,NA,NA,NA
-"ozbabynames",FALSE,NA,NA,NA,NA
-"ozflights",FALSE,NA,NA,NA,NA
-"ozroaddeaths",FALSE,NA,NA,NA,NA
-"packagemetrics",FALSE,NA,NA,NA,NA
-"parseids",FALSE,NA,NA,NA,NA
-"parzer",FALSE,NA,NA,NA,NA
-"pegax",FALSE,NA,NA,NA,NA
-"phyrmeta",FALSE,NA,NA,NA,NA
-"pkginspector",FALSE,NA,NA,NA,NA
-"pkgreviewr",FALSE,NA,NA,NA,NA
-"ponyexpress",FALSE,NA,NA,NA,NA
-"qcoder",FALSE,NA,NA,NA,NA
-"rcheatsheet",FALSE,NA,NA,NA,NA
-"rcitoid",FALSE,NA,NA,NA,NA
-"reviewer",FALSE,NA,NA,NA,NA
-"rftdoi",FALSE,NA,NA,NA,NA
-"ridb",FALSE,NA,NA,NA,NA
-"riodata",FALSE,NA,NA,NA,NA
-"roblog",FALSE,NA,NA,NA,NA
-"rodev",FALSE,NA,NA,NA,NA
-"roomba",FALSE,NA,NA,NA,NA
-"ropsec",FALSE,NA,NA,NA,NA
-"rotemplate",FALSE,NA,NA,NA,NA
-"rresync",FALSE,NA,NA,NA,NA
-"rtd",FALSE,NA,NA,NA,NA
-"rthings",FALSE,NA,NA,NA,NA
-"rubfuns",FALSE,NA,NA,NA,NA
-"rwalkable",FALSE,NA,NA,NA,NA
-"rwdpa",FALSE,NA,NA,NA,NA
-"scatrr",FALSE,NA,NA,NA,NA
-"scientist",FALSE,NA,NA,NA,NA
-"scitations",FALSE,NA,NA,NA,NA
-"seasl",FALSE,NA,NA,NA,NA
-"simpletextr",FALSE,NA,NA,NA,NA
-"snowball",FALSE,NA,NA,NA,NA
-"sparqldsl",FALSE,NA,NA,NA,NA
-"spenv",FALSE,NA,NA,NA,NA
-"splister",FALSE,NA,NA,NA,NA
-"spplist",FALSE,NA,NA,NA,NA
-"spplit",FALSE,NA,NA,NA,NA
-"stellar",FALSE,NA,NA,NA,NA
-"syn",FALSE,NA,NA,NA,NA
-"taxadc",FALSE,NA,NA,NA,NA
-"tecks",FALSE,NA,NA,NA,NA
-"testevil",FALSE,NA,NA,NA,NA
-"testrmd",FALSE,NA,NA,NA,NA
-"tic",TRUE,"https://github.com/ropensci/software-review/issues/305","4/review(s)-in-awaiting-changes,package,topic:reproducibility","In Progress",2019-05-23
-"timefuzz",FALSE,NA,NA,NA,NA
-"timeraster",FALSE,NA,NA,NA,NA
-"tinkr",FALSE,NA,NA,NA,NA
-"tl",FALSE,NA,NA,NA,NA
-"trackmd",FALSE,NA,NA,NA,NA
-"tRainspotting",FALSE,NA,NA,NA,NA
-"travis",FALSE,NA,NA,NA,NA
-"trufflesniffer",FALSE,NA,NA,NA,NA
-"umapr",FALSE,NA,NA,NA,NA
-"urltemplate",FALSE,NA,NA,NA,NA
-"vitae",FALSE,NA,NA,NA,NA
-"webmiddens",FALSE,NA,NA,NA,NA
-"webrockets",FALSE,NA,NA,NA,NA
-"zbank",FALSE,NA,NA,NA,NA
-"zissou",FALSE,NA,NA,NA,NA
-"antanym",TRUE,"https://github.com/ropensci/onboarding/issues/198","6/approved,package,topic:data-access,topic:geospatial","Approved",2018-02-26
-"antiword",FALSE,NA,NA,NA,NA
-"AntWeb",FALSE,NA,NA,NA,NA
-"arkdb",TRUE,"https://github.com/ropensci/onboarding/issues/224","6/approved,package,topic:databases","Approved",2018-06-08
-"aRxiv",FALSE,NA,NA,NA,NA
-"assertr",FALSE,NA,NA,NA,NA
-"av",FALSE,NA,NA,NA,NA
-"babette",FALSE,NA,NA,NA,NA
-"bbox",FALSE,NA,NA,NA,NA
-"beastier",TRUE,"https://github.com/ropensci/onboarding/issues/209","6/approved,topic:molecular-biology","Approved",2018-04-05
-"beautier",FALSE,NA,NA,NA,NA
-"betty",FALSE,NA,NA,NA,NA
-"bib2df",TRUE,"https://github.com/ropensci/onboarding/issues/124","6/approved,package,topic:data-extraction,topic:literature","Approved",2017-06-06
-"bikedata",TRUE,"https://github.com/ropensci/onboarding/issues/116","6/approved,package,topic:data-access,topic:geospatial","Approved",2017-05-31
-"binman",FALSE,NA,NA,NA,NA
-"binomen",FALSE,NA,NA,NA,NA
-"biomartr",TRUE,"https://github.com/ropensci/onboarding/issues/93","6/approved,package,topic:data-access,topic:molecular-biology","Approved",2017-01-25
-"bittrex",TRUE,"https://github.com/ropensci/onboarding/issues/120","6/approved,package,topic:data-access,topic:misc","Approved",2017-06-02
-"bmc",FALSE,NA,NA,NA,NA
-"bold",FALSE,NA,NA,NA,NA
-"bomrang",TRUE,"https://github.com/ropensci/onboarding/issues/121","6/approved,package,topic:climate-data,topic:data-access,topic:data-publication","Approved",2017-06-03
-"bowerbird",TRUE,"https://github.com/ropensci/onboarding/issues/139","6/approved,package,topic:data-extraction,topic:databases,topic:reproducibility","Approved",2017-08-04
-"brranching",FALSE,NA,NA,NA,NA
-"camsRad",TRUE,"https://github.com/ropensci/onboarding/issues/72","6/approved,package,topic:climate-data,topic:data-access,topic:earth-science","Approved",2016-08-22
-"canpaginate",FALSE,NA,NA,NA,NA
-"ccafs",TRUE,"https://github.com/ropensci/onboarding/issues/82","6/approved,package,topic:climate-data","Approved",2016-10-27
-"cde",TRUE,"https://github.com/ropensci/onboarding/issues/284","6/approved,package,topic:data-access,topic:earth-science","Approved",2019-02-25
-"charlatan",TRUE,"https://github.com/ropensci/onboarding/issues/94","6/approved,package,topic:misc,topic:reproducibility","Approved",2017-01-28
-"chromer",FALSE,NA,NA,NA,NA
-"citesdb",TRUE,"https://github.com/ropensci/software-review/issues/292","6/approved,package,topic:data-access,topic:data-munging,topic:peer-reviewed","Approved",2019-04-05
-"ckanr",FALSE,NA,NA,NA,NA
-"cld2",FALSE,NA,NA,NA,NA
-"cld3",FALSE,NA,NA,NA,NA
-"cleanEHR",TRUE,"https://github.com/ropensci/onboarding/issues/102","6/approved,package,topic:health","Approved",2017-02-21
-"clifro",FALSE,NA,NA,NA,NA
-"codemetar",TRUE,"https://github.com/ropensci/onboarding/issues/130","6/approved,package,topic:misc,topic:references,topic:reproducibility","Approved",2017-07-05
-"colocr",TRUE,"https://github.com/ropensci/onboarding/issues/243","6/approved,package,topic:imaging,topic:reproducibility","Approved",2018-08-06
-"comtradr",TRUE,"https://github.com/ropensci/onboarding/issues/141","6/approved,package,topic:data-access,topic:misc","Approved",2017-08-08
-"CoordinateCleaner",FALSE,NA,NA,NA,NA
-"cRegulome",TRUE,"https://github.com/ropensci/onboarding/issues/149","6/approved,package,topic:data-access,topic:molecular-biology","Approved",2017-09-06
-"crevents",FALSE,NA,NA,NA,NA
-"crminer",FALSE,NA,NA,NA,NA
-"crul",FALSE,NA,NA,NA,NA
-"cyphr",TRUE,"https://github.com/ropensci/onboarding/issues/114","6/approved,package,topic:data-extraction","Approved",2017-05-08
-"dappr",FALSE,NA,NA,NA,NA
-"dashboard",FALSE,NA,NA,NA,NA
-"datapack",FALSE,NA,NA,NA,NA
-"DataPackageR",TRUE,"https://github.com/ropensci/onboarding/issues/230","6/approved,package","Approved",2018-06-18
-"DataSpaceR",TRUE,"https://github.com/ropensci/software-review/issues/261","6/approved,package","Approved",2018-10-16
-"dbhydroR",TRUE,"https://github.com/ropensci/onboarding/issues/61","6/approved,package,topic:data-access,topic:earth-science","Approved",2016-08-01
-"DoOR.data",TRUE,"https://github.com/ropensci/onboarding/issues/35","6/approved,package,topic:data-only-pkg,topic:physiology","Approved",2016-04-11
-"DoOR.functions",TRUE,"https://github.com/ropensci/onboarding/issues/34","6/approved,package,topic:data-only-pkg,topic:physiology","Approved",2016-04-11
-"drake",TRUE,"https://github.com/ropensci/onboarding/issues/156","6/approved,package,topic:reproducibility","Approved",2017-11-09
-"ecoengine",FALSE,NA,NA,NA,NA
-"elastic",FALSE,NA,NA,NA,NA
-"elasticdsl",FALSE,NA,NA,NA,NA
-"EML",FALSE,NA,NA,NA,NA
-"emld",TRUE,"https://github.com/ropensci/software-review/issues/269","6/approved,package,pub:joss,topic:data-extraction,topic:data-publication,topic:reproducibility","Approved",2018-11-27
-"EndoMineR",TRUE,"https://github.com/ropensci/onboarding/issues/153","6/approved,package,topic:data-extraction,topic:text-mining","Approved",2017-09-22
-"epubr",TRUE,"https://github.com/ropensci/onboarding/issues/222","6/approved,package","Approved",2018-06-05
-"essurvey",FALSE,NA,NA,NA,NA
-"etseed",FALSE,NA,NA,NA,NA
-"europepmc",TRUE,"https://github.com/ropensci/onboarding/issues/29","6/approved,package,topic:data-access,topic:literature,topic:text-mining","Approved",2016-03-11
-"ezknitr",FALSE,NA,NA,NA,NA
-"fauxpas",FALSE,NA,NA,NA,NA
-"FedData",TRUE,"https://github.com/ropensci/onboarding/issues/13","6/approved,package,topic:data-access,topic:geospatial","Approved",2015-05-06
-"finch",FALSE,NA,NA,NA,NA
-"fingertipsR",TRUE,"https://github.com/ropensci/onboarding/issues/168","6/approved,package,topic:data-access,topic:health","Approved",2017-12-08
-"ftp",FALSE,NA,NA,NA,NA
-"fulltext",FALSE,NA,NA,NA,NA
-"gender",FALSE,NA,NA,NA,NA
-"genderdata",FALSE,NA,NA,NA,NA
-"geoaxe",FALSE,NA,NA,NA,NA
-"geojson",FALSE,NA,NA,NA,NA
-"geojsonio",FALSE,NA,NA,NA,NA
-"geojsonlint",FALSE,NA,NA,NA,NA
-"geonames",FALSE,NA,NA,NA,NA
-"geoops",FALSE,NA,NA,NA,NA
-"geoparser",TRUE,"https://github.com/ropensci/onboarding/issues/43","6/approved,package,topic:data-extraction,topic:geospatial,topic:text-mining","Approved",2016-05-08
-"getCRUCLdata",TRUE,"https://github.com/ropensci/onboarding/issues/96","6/approved,package,topic:climate-data,topic:data-access","Approved",2017-01-30
-"getlandsat",TRUE,"https://github.com/ropensci/onboarding/issues/58","6/approved,package,topic:data-access,topic:earth-science,topic:geospatial","Approved",2016-07-13
-"ghql",FALSE,NA,NA,NA,NA
-"gistr",FALSE,NA,NA,NA,NA
-"git2r",FALSE,NA,NA,NA,NA
-"git2rdata",TRUE,"https://github.com/ropensci/software-review/issues/263","6/approved,package,topic:reproducibility","Approved",2018-11-14
-"gitignore",FALSE,NA,NA,NA,NA
-"googleLanguageR",TRUE,"https://github.com/ropensci/onboarding/issues/127","6/approved,package,topic:data-extraction,topic:linguistics,topic:text-mining","Approved",2017-06-18
-"grainchanger",FALSE,NA,NA,NA,NA
-"graphql",FALSE,NA,NA,NA,NA
-"GSODR",TRUE,"https://github.com/ropensci/onboarding/issues/79","6/approved,package,topic:climate-data,topic:data-access","Approved",2016-10-14
-"gtfsr",TRUE,"https://github.com/ropensci/onboarding/issues/55","6/approved,package,topic:data-access,topic:parsing","Approved",2016-06-24
-"gutenbergr",TRUE,"https://github.com/ropensci/software-review/issues/41","6/approved,package,topic:data-access,topic:literature,topic:text-mining","Approved",2016-05-02
-"handlr",FALSE,NA,NA,NA,NA
-"hathi",FALSE,NA,NA,NA,NA
-"hddtools",TRUE,"https://github.com/ropensci/onboarding/issues/73","6/approved,package,topic:data-access,topic:earth-science","Approved",2016-09-05
-"helminthR",FALSE,NA,NA,NA,NA
-"historydata",FALSE,NA,NA,NA,NA
-"hoardr",FALSE,NA,NA,NA,NA
-"hunspell",FALSE,NA,NA,NA,NA
-"hydroscoper",TRUE,"https://github.com/ropensci/onboarding/issues/185","6/approved,package,topic:climate-data,topic:data-access","Approved",2018-01-10
-"IEEER",FALSE,NA,NA,NA,NA
-"iheatmapr",TRUE,"https://github.com/ropensci/onboarding/issues/107","6/approved,package,topic:data-visualisation","Approved",2017-03-30
-"ijtiff",TRUE,"https://github.com/ropensci/onboarding/issues/164","6/approved,package,topic:data-extraction,topic:imaging,topic:lab","Approved",2017-12-01
-"infx",TRUE,"https://github.com/ropensci/onboarding/issues/218","6/approved,package","Approved",2018-05-18
-"internetarchive",FALSE,NA,NA,NA,NA
-"isdparser",FALSE,NA,NA,NA,NA
-"jaod",FALSE,NA,NA,NA,NA
-"jenkins",FALSE,NA,NA,NA,NA
-"jqr",FALSE,NA,NA,NA,NA
-"jsonld",FALSE,NA,NA,NA,NA
-"jsonvalidate",FALSE,NA,NA,NA,NA
-"jstor",TRUE,"https://github.com/ropensci/onboarding/issues/189","6/approved,package,topic:data-extraction","Approved",2018-01-26
-"landscapetools",TRUE,"https://github.com/ropensci/onboarding/issues/188","6/approved,package,pub:mee,topic:geospatial","Approved",2018-01-24
-"lawn",FALSE,NA,NA,NA,NA
-"lingtypology",TRUE,"https://github.com/ropensci/onboarding/issues/95","6/approved,package,topic:linguistics","Approved",2017-01-29
-"lq",FALSE,NA,NA,NA,NA
-"lumier",FALSE,NA,NA,NA,NA
-"magick",FALSE,NA,NA,NA,NA
-"mapr",FALSE,NA,NA,NA,NA
-"mauricer",FALSE,NA,NA,NA,NA
-"microdemic",FALSE,NA,NA,NA,NA
-"MODISTools",TRUE,"https://github.com/ropensci/software-review/issues/246","6/approved,package","Approved",2018-08-24
-"MODIStsp",TRUE,"https://github.com/ropensci/onboarding/issues/184","6/approved,package,topic:geospatial","Approved",2018-01-07
-"monkeylearn",TRUE,"https://github.com/ropensci/onboarding/issues/45","6/approved,package,topic:text-mining","Approved",2016-05-19
-"mregions",TRUE,"https://github.com/ropensci/onboarding/issues/53","6/approved,package,topic:data-access,topic:geospatial","Approved",2016-06-16
-"MtreeRing",TRUE,"https://github.com/ropensci/software-review/issues/287","6/approved,package,topic:data-extraction","Approved",2019-03-02
-"musemeta",FALSE,NA,NA,NA,NA
-"mutant",FALSE,NA,NA,NA,NA
-"nasapower",TRUE,"https://github.com/ropensci/onboarding/issues/155","6/approved,package,pub:joss,topic:climate-data,topic:data-access,topic:earth-science","Approved",2017-11-04
-"natserv",FALSE,NA,NA,NA,NA
-"nbaR",TRUE,"https://github.com/ropensci/onboarding/issues/257","6/approved,package,pub:mee,topic:biodiversity,topic:data-access","Approved",2018-10-04
-"neotoma",FALSE,NA,NA,NA,NA
-"NLMR",TRUE,"https://github.com/ropensci/onboarding/issues/188","6/approved,package,pub:mee,topic:geospatial","Approved",2018-01-24
-"nlrx",TRUE,"https://github.com/ropensci/onboarding/issues/262","6/approved,package,pub:mee,topic:geospatial,topic:reproducibility","Approved",2018-10-19
-"nodbi",FALSE,NA,NA,NA,NA
-"nomisr",TRUE,"https://github.com/ropensci/onboarding/issues/190","6/approved,package,topic:data-access,topic:data-extraction","Approved",2018-01-30
-"oai",TRUE,"https://github.com/ropensci/onboarding/issues/19","6/approved,package,topic:data-access,topic:literature","Approved",2015-08-21
-"onekp",FALSE,NA,NA,NA,NA
-"opencage",TRUE,"https://github.com/ropensci/onboarding/issues/36","6/approved,package,topic:data-extraction,topic:geospatial,topic:text-mining","Approved",2016-04-12
-"opencontext",FALSE,NA,NA,NA,NA
-"opencv",FALSE,NA,NA,NA,NA
-"originr",FALSE,NA,NA,NA,NA
-"osmdata",TRUE,"https://github.com/ropensci/onboarding/issues/103","6/approved,package,topic:data-access,topic:geospatial","Approved",2017-03-08
-"osmplotr",TRUE,"https://github.com/ropensci/onboarding/issues/27","6/approved,package,topic:data-access,topic:data-visualisation,topic:geospatial","Approved",2016-03-04
-"ots",FALSE,NA,NA,NA,NA
-"outcomerate",TRUE,"https://github.com/ropensci/onboarding/issues/213","6/approved,package,topic:data-munging","Approved",2018-04-28
-"paleobioDB",FALSE,NA,NA,NA,NA
-"pangaear",FALSE,NA,NA,NA,NA
-"patentsview",TRUE,"https://github.com/ropensci/onboarding/issues/112","6/approved,package","Approved",2017-04-25
-"pdftools",FALSE,NA,NA,NA,NA
-"phylocomr",FALSE,NA,NA,NA,NA
-"phylogram",TRUE,"https://github.com/ropensci/onboarding/issues/212","6/approved,package,pub:joss,topic:phylogenetics","Approved",2018-04-24
-"phylotaR",TRUE,"https://github.com/ropensci/onboarding/issues/187","6/approved,package,topic:data-access,topic:phylogenetics,topic:taxonomy","Approved",2018-01-23
-"piggyback",TRUE,"https://github.com/ropensci/onboarding/issues/220","6/approved,package,topic:data-access,topic:reproducibility","Approved",2018-05-30
-"plater",TRUE,"https://github.com/ropensci/onboarding/issues/60","6/approved,package,topic:lab","Approved",2016-07-26
-"pleiades",FALSE,NA,NA,NA,NA
-"plotdap",FALSE,NA,NA,NA,NA
-"plotly",FALSE,NA,NA,NA,NA
-"popler",TRUE,"https://github.com/ropensci/onboarding/issues/254","6/approved,package,topic:peer-reviewed","Approved",2018-10-01
-"PostcodesioR",TRUE,"https://github.com/ropensci/onboarding/issues/176","6/approved,package,topic:geospatial","Approved",2018-01-02
-"prism",FALSE,NA,NA,NA,NA
-"pubchunks",FALSE,NA,NA,NA,NA
-"qpdf",FALSE,NA,NA,NA,NA
-"qualtRics",TRUE,"https://github.com/ropensci/onboarding/issues/192","6/approved,package,topic:data-access","Approved",2018-02-04
-"rAltmetric",FALSE,NA,NA,NA,NA
-"ramlegacy",TRUE,"https://github.com/ropensci/software-review/issues/264","6/approved,package,topic:biodiversity,topic:data-access,topic:peer-reviewed","Approved",2018-11-21
-"randgeo",FALSE,NA,NA,NA,NA
-"rAvis",FALSE,NA,NA,NA,NA
-"rbace",FALSE,NA,NA,NA,NA
-"rbhl",FALSE,NA,NA,NA,NA
-"rbison",FALSE,NA,NA,NA,NA
-"rbraries",FALSE,NA,NA,NA,NA
-"rcites",TRUE,"https://github.com/ropensci/onboarding/issues/244","6/approved,package,pub:joss,topic:data-access","Approved",2018-08-15
-"rcoreoa",FALSE,NA,NA,NA,NA
-"rcrossref",FALSE,NA,NA,NA,NA
-"rdatacite",FALSE,NA,NA,NA,NA
-"rdataretriever",FALSE,NA,NA,NA,NA
-"rdefra",TRUE,"https://github.com/ropensci/onboarding/issues/68","6/approved,package,topic:data-access,topic:earth-science","Approved",2016-08-08
-"rdflib",TRUE,"https://github.com/ropensci/onboarding/issues/169","6/approved,package,topic:data-extraction","Approved",2017-12-12
-"rdhs",TRUE,"https://github.com/ropensci/software-review/issues/238","6/approved,package,topic:data-access","Approved",2018-07-20
-"rdopa",FALSE,NA,NA,NA,NA
-"rdpla",TRUE,"https://github.com/ropensci/onboarding/issues/71","6/approved,package,topic:data-access","Approved",2016-08-16
-"rdryad",FALSE,NA,NA,NA,NA
-"rebird",FALSE,NA,NA,NA,NA
-"reeack",FALSE,NA,NA,NA,NA
-"refimpact",TRUE,"https://github.com/ropensci/onboarding/issues/78","6/approved,package,topic:text-mining","Approved",2016-10-03
-"RefManageR",TRUE,"https://github.com/ropensci/onboarding/issues/119","6/approved,package,topic:data-extraction,topic:literature,topic:reproducibility","Approved",2017-06-02
-"rentrez",FALSE,NA,NA,NA,NA
-"rerddap",FALSE,NA,NA,NA,NA
-"restez",TRUE,"https://github.com/ropensci/onboarding/issues/232","6/approved,package,pub:joss,topic:data-access,topic:data-munging,topic:molecular-biology","Approved",2018-06-27
-"reuropeana",FALSE,NA,NA,NA,NA
-"rfigshare",FALSE,NA,NA,NA,NA
-"rfishbase",TRUE,"https://github.com/ropensci/onboarding/issues/137","6/approved,legacy,package,topic:data-access,topic:databases","Approved",2017-07-20
-"rfisheries",FALSE,NA,NA,NA,NA
-"rflybase",FALSE,NA,NA,NA,NA
-"rfna",FALSE,NA,NA,NA,NA
-"rgbif",FALSE,NA,NA,NA,NA
-"rglobi",FALSE,NA,NA,NA,NA
-"rgpdd",FALSE,NA,NA,NA,NA
-"riem",TRUE,"https://github.com/ropensci/onboarding/issues/39","6/approved,package,topic:climate-data,topic:data-access","Approved",2016-04-25
-"rif",FALSE,NA,NA,NA,NA
-"rinat",FALSE,NA,NA,NA,NA
-"ritis",FALSE,NA,NA,NA,NA
-"rjsonapi",FALSE,NA,NA,NA,NA
-"rmangal",TRUE,"https://github.com/ropensci/software-review/issues/332","6/approved,package,topic:data-retrieval","Approved",2019-07-30
-"rnassqs",TRUE,"https://github.com/ropensci/onboarding/issues/298","6/approved,package,topic:data-access,topic:peer-reviewed","Approved",2019-05-04
-"rnaturalearth",TRUE,"https://github.com/ropensci/onboarding/issues/22","6/approved,package,topic:data-only-pkg,topic:data-visualisation,topic:geospatial","Approved",2015-11-26
-"rnaturalearthdata",FALSE,NA,NA,NA,NA
-"rnaturalearthhires",FALSE,NA,NA,NA,NA
-"RNeXML",FALSE,NA,NA,NA,NA
-"rnoaa",FALSE,NA,NA,NA,NA
-"rnpn",FALSE,NA,NA,NA,NA
-"roadoi",TRUE,"https://github.com/ropensci/onboarding/issues/115","6/approved,package,topic:data-access,topic:literature","Approved",2017-05-17
-"robotstxt",TRUE,"https://github.com/ropensci/onboarding/issues/25","6/approved,package,topic:parsing","Approved",2016-01-09
-"rodev",FALSE,NA,NA,NA,NA
-"ropenaq",TRUE,"https://github.com/ropensci/onboarding/issues/24","6/approved,package,topic:data-access,topic:earth-science","Approved",2015-12-31
-"rorcid",FALSE,NA,NA,NA,NA
-"rotemplate",FALSE,NA,NA,NA,NA
-"rotl",TRUE,"https://github.com/ropensci/onboarding/issues/17","6/approved,package,topic:data-access","Approved",2015-06-16
-"rperseus",TRUE,"https://github.com/ropensci/onboarding/issues/145","6/approved,package,topic:data-access,topic:linguistics,topic:literature,topic:text-mining","Approved",2017-08-20
-"rplos",FALSE,NA,NA,NA,NA
-"Rpolyhedra",TRUE,"https://github.com/ropensci/onboarding/issues/157","6/approved,package,topic:mathematics","Approved",2017-11-09
-"rppo",TRUE,"https://github.com/ropensci/onboarding/issues/207","6/approved,package,topic:data-access","Approved",2018-03-31
-"rredlist",FALSE,NA,NA,NA,NA
-"rrlite",TRUE,"https://github.com/ropensci/onboarding/issues/6","6/approved,package,topic:databases","Approved",2015-03-31
-"rromeo",TRUE,"https://github.com/ropensci/onboarding/issues/285","6/approved,package,topic:data-access,topic:literature,topic:text-mining","Approved",2019-02-26
-"rrricanes",TRUE,"https://github.com/ropensci/onboarding/issues/118","6/approved,package,topic:climate-data,topic:data-access,topic:geospatial","Approved",2017-06-01
-"rrricanesdata",TRUE,"https://github.com/ropensci/onboarding/issues/118","6/approved,package,topic:climate-data,topic:data-access,topic:geospatial","Approved",2017-06-01
-"RSelenium",FALSE,NA,NA,NA,NA
-"rsnps",FALSE,NA,NA,NA,NA
-"rtika",TRUE,"https://github.com/ropensci/onboarding/issues/191","6/approved,package,topic:data-extraction,topic:text-mining","Approved",2018-01-31
-"rtimicropem",TRUE,"https://github.com/ropensci/onboarding/issues/126","6/approved,package,topic:data-extraction,topic:earth-science,topic:hardware","Approved",2017-06-14
-"rusda",FALSE,NA,NA,NA,NA
-"rvertnet",FALSE,NA,NA,NA,NA
-"rWBclimate",FALSE,NA,NA,NA,NA
-"rzmq",FALSE,NA,NA,NA,NA
-"scrubr",FALSE,NA,NA,NA,NA
-"seaaroundus",FALSE,NA,NA,NA,NA
-"skimr",TRUE,"https://github.com/ropensci/onboarding/issues/175","6/approved,package,topic:misc","Approved",2017-12-20
-"skynet",TRUE,"https://github.com/ropensci/onboarding/issues/214","6/approved,package,topic:data-munging","Approved",2018-04-30
-"smapr",TRUE,"https://github.com/ropensci/onboarding/issues/231","6/approved,package,topic:data-access,topic:geospatial","Approved",2018-06-20
-"sofa",FALSE,NA,NA,NA,NA
-"solrium",FALSE,NA,NA,NA,NA
-"spatsoc",TRUE,"https://github.com/ropensci/onboarding/issues/237","6/approved,package,pub:mee,topic:data-munging,topic:geospatial","Approved",2018-07-17
-"spelling",FALSE,NA,NA,NA,NA
-"spocc",FALSE,NA,NA,NA,NA
-"ssh",FALSE,NA,NA,NA,NA
-"stats19",TRUE,"https://github.com/ropensci/onboarding/issues/266","6/approved,package,pub:joss,topic:data-access,topic:geospatial,topic:transport","Approved",2018-11-23
-"staypuft",FALSE,NA,NA,NA,NA
-"stplanr",TRUE,"https://github.com/ropensci/onboarding/issues/10","6/approved,package,topic:data-access","Approved",2015-04-08
-"suppdata",TRUE,"https://github.com/ropensci/onboarding/issues/195","6/approved,package,topic:data-access,topic:reproducibility","Approved",2018-02-07
-"tabulizer",TRUE,"https://github.com/ropensci/onboarding/issues/42","6/approved,package,topic:data-extraction","Approved",2016-05-07
-"tabulizerjars",FALSE,NA,NA,NA,NA
-"tacmagic",TRUE,"https://github.com/ropensci/software-review/issues/280","6/approved,package,topic:data-extraction,topic:data-munging,topic:imaging,topic:neuro","Approved",2019-01-25
-"taxa",FALSE,NA,NA,NA,NA
-"taxize",FALSE,NA,NA,NA,NA
-"taxizedb",FALSE,NA,NA,NA,NA
-"taxview",FALSE,NA,NA,NA,NA
-"tesseract",FALSE,NA,NA,NA,NA
-"textreuse",TRUE,"https://github.com/ropensci/onboarding/issues/20","6/approved,package,topic:literature,topic:text-mining","Approved",2015-09-18
-"tidyhydat",TRUE,"https://github.com/ropensci/onboarding/issues/152","6/approved,package,topic:climate-data,topic:data-access,topic:earth-science","Approved",2017-09-13
-"tidync",TRUE,"https://github.com/ropensci/onboarding/issues/174","6/approved,package,topic:data-extraction,topic:data-munging,topic:geospatial","Approved",2017-12-19
-"tidypmc",FALSE,NA,NA,NA,NA
-"tif",FALSE,NA,NA,NA,NA
-"tiler",TRUE,"https://github.com/ropensci/onboarding/issues/226","6/approved,package","Approved",2018-06-12
-"tokenizers",TRUE,"https://github.com/ropensci/onboarding/issues/33","6/approved,package,topic:data-extraction,topic:literature,topic:text-mining","Approved",2016-04-04
-"tracerer",FALSE,NA,NA,NA,NA
-"tradestatistics",TRUE,"https://github.com/ropensci/onboarding/issues/274","6/approved,package,topic:data-access,topic:reproducibility","Approved",2019-01-03
-"traits",FALSE,NA,NA,NA,NA
-"treebase",FALSE,NA,NA,NA,NA
-"treestartr",TRUE,"https://github.com/ropensci/onboarding/issues/239","6/approved,package,pub:mee,topic:phylogenetics,topic:taxonomy","Approved",2018-07-23
-"UCSCXenaTools",TRUE,"https://github.com/ropensci/onboarding/issues/315","6/approved,package,topic:data-access","Approved",2019-06-18
-"unrtf",FALSE,NA,NA,NA,NA
-"USAboundaries",FALSE,NA,NA,NA,NA
-"USAboundariesData",FALSE,NA,NA,NA,NA
-"vcr",FALSE,NA,NA,NA,NA
-"virtuoso",TRUE,"https://github.com/ropensci/software-review/issues/271","6/approved,package,topic:data-access,topic:data-extraction","Approved",2018-12-04
-"visdat",TRUE,"https://github.com/ropensci/onboarding/issues/87","6/approved,package,topic:data-visualisation","Approved",2017-01-04
-"wateRinfo",FALSE,NA,NA,NA,NA
-"wdman",FALSE,NA,NA,NA,NA
-"weathercan",TRUE,"https://github.com/ropensci/onboarding/issues/160","6/approved,package,topic:data-access,topic:earth-science","Approved",2017-11-24
-"webchem",FALSE,NA,NA,NA,NA
-"webmockr",FALSE,NA,NA,NA,NA
-"wellknown",FALSE,NA,NA,NA,NA
-"wicket",FALSE,NA,NA,NA,NA
-"wikitaxa",FALSE,NA,NA,NA,NA
-"worrms",FALSE,NA,NA,NA,NA
-"writexl",FALSE,NA,NA,NA,NA
-"xslt",FALSE,NA,NA,NA,NA
+"package","software_review","software_review_status","onboarding_url","issue_created","review_completed","issue_closed"
+"auk",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/136",2017-07-19 20:48:59,2018-01-30 18:54:22,2018-08-26 19:38:06
+"genbankr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/47",2016-05-20 16:35:53,2016-08-01 20:28:02,2016-08-03 22:31:28
+"treeio",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/179",2018-01-03 10:26:13,2018-03-11 16:15:00,2018-03-20 18:35:27
+"apipkgen",FALSE,NA,NA,NA,NA,NA
+"arresteddev",FALSE,NA,NA,NA,NA,NA
+"aspacer",FALSE,NA,NA,NA,NA,NA
+"available",FALSE,NA,NA,NA,NA,NA
+"bindertools",FALSE,NA,NA,NA,NA,NA
+"blogyaml",FALSE,NA,NA,NA,NA,NA
+"cchecks",FALSE,NA,NA,NA,NA,NA
+"changes",FALSE,NA,NA,NA,NA,NA
+"checkers",FALSE,NA,NA,NA,NA,NA
+"citecorp",FALSE,NA,NA,NA,NA,NA
+"clock",FALSE,NA,NA,NA,NA,NA
+"colorpiler",FALSE,NA,NA,NA,NA,NA
+"conditionz",FALSE,NA,NA,NA,NA,NA
+"convertr",FALSE,NA,NA,NA,NA,NA
+"craft",FALSE,NA,NA,NA,NA,NA
+"cricketdata",FALSE,NA,NA,NA,NA,NA
+"datapkg",FALSE,NA,NA,NA,NA,NA
+"datasauce",FALSE,NA,NA,NA,NA,NA
+"dataspice",FALSE,NA,NA,NA,NA,NA
+"datastorr",FALSE,NA,NA,NA,NA,NA
+"decapitated",FALSE,NA,NA,NA,NA,NA
+"defender",FALSE,NA,NA,NA,NA,NA
+"dirdf",FALSE,NA,NA,NA,NA,NA
+"dissemr",FALSE,NA,NA,NA,NA,NA
+"eechidna",FALSE,NA,NA,NA,NA,NA
+"emldown",FALSE,NA,NA,NA,NA,NA
+"feetures",FALSE,NA,NA,NA,NA,NA
+"flipper",FALSE,NA,NA,NA,NA,NA
+"ftp",FALSE,NA,NA,NA,NA,NA
+"gendercodeR",FALSE,NA,NA,NA,NA,NA
+"geoflowr",FALSE,NA,NA,NA,NA,NA
+"geojsonrewind",FALSE,NA,NA,NA,NA,NA
+"geolocart",FALSE,NA,NA,NA,NA,NA
+"ghrecipes",FALSE,NA,NA,NA,NA,NA
+"gramr",FALSE,NA,NA,NA,NA,NA
+"hirsutosa",FALSE,NA,NA,NA,NA,NA
+"hoasts",FALSE,NA,NA,NA,NA,NA
+"icon",FALSE,NA,NA,NA,NA,NA
+"identifires",FALSE,NA,NA,NA,NA,NA
+"jobstatus",FALSE,NA,NA,NA,NA,NA
+"keybase",FALSE,NA,NA,NA,NA,NA
+"laselva",FALSE,NA,NA,NA,NA,NA
+"leafier",FALSE,NA,NA,NA,NA,NA
+"makeregistry",FALSE,NA,NA,NA,NA,NA
+"mchtoolbox",FALSE,NA,NA,NA,NA,NA
+"middlechild",FALSE,NA,NA,NA,NA,NA
+"miner",FALSE,NA,NA,NA,NA,NA
+"motifator",FALSE,NA,NA,NA,NA,NA
+"notary",FALSE,NA,NA,NA,NA,NA
+"oauthlib",FALSE,NA,NA,NA,NA,NA
+"ochRe",FALSE,NA,NA,NA,NA,NA
+"opencv",FALSE,NA,NA,NA,NA,NA
+"ozbabynames",FALSE,NA,NA,NA,NA,NA
+"ozflights",FALSE,NA,NA,NA,NA,NA
+"ozroaddeaths",FALSE,NA,NA,NA,NA,NA
+"packagemetrics",FALSE,NA,NA,NA,NA,NA
+"parseids",FALSE,NA,NA,NA,NA,NA
+"parzer",FALSE,NA,NA,NA,NA,NA
+"pegax",FALSE,NA,NA,NA,NA,NA
+"phyrmeta",FALSE,NA,NA,NA,NA,NA
+"pkginspector",FALSE,NA,NA,NA,NA,NA
+"pkgreviewr",FALSE,NA,NA,NA,NA,NA
+"ponyexpress",FALSE,NA,NA,NA,NA,NA
+"qcoder",FALSE,NA,NA,NA,NA,NA
+"rcheatsheet",FALSE,NA,NA,NA,NA,NA
+"rcitoid",FALSE,NA,NA,NA,NA,NA
+"reviewer",FALSE,NA,NA,NA,NA,NA
+"rftdoi",FALSE,NA,NA,NA,NA,NA
+"ridb",FALSE,NA,NA,NA,NA,NA
+"riodata",FALSE,NA,NA,NA,NA,NA
+"roblog",FALSE,NA,NA,NA,NA,NA
+"rodev",FALSE,NA,NA,NA,NA,NA
+"roomba",FALSE,NA,NA,NA,NA,NA
+"ropsec",FALSE,NA,NA,NA,NA,NA
+"rotemplate",FALSE,NA,NA,NA,NA,NA
+"rresync",FALSE,NA,NA,NA,NA,NA
+"rtd",FALSE,NA,NA,NA,NA,NA
+"rthings",FALSE,NA,NA,NA,NA,NA
+"rubfuns",FALSE,NA,NA,NA,NA,NA
+"rwalkable",FALSE,NA,NA,NA,NA,NA
+"rwdpa",FALSE,NA,NA,NA,NA,NA
+"scatrr",FALSE,NA,NA,NA,NA,NA
+"scientist",FALSE,NA,NA,NA,NA,NA
+"scitations",FALSE,NA,NA,NA,NA,NA
+"seasl",FALSE,NA,NA,NA,NA,NA
+"simpletextr",FALSE,NA,NA,NA,NA,NA
+"snowball",FALSE,NA,NA,NA,NA,NA
+"sparqldsl",FALSE,NA,NA,NA,NA,NA
+"spenv",FALSE,NA,NA,NA,NA,NA
+"splister",FALSE,NA,NA,NA,NA,NA
+"spplist",FALSE,NA,NA,NA,NA,NA
+"spplit",FALSE,NA,NA,NA,NA,NA
+"stellar",FALSE,NA,NA,NA,NA,NA
+"syn",FALSE,NA,NA,NA,NA,NA
+"taxadc",FALSE,NA,NA,NA,NA,NA
+"tecks",FALSE,NA,NA,NA,NA,NA
+"testevil",FALSE,NA,NA,NA,NA,NA
+"testrmd",FALSE,NA,NA,NA,NA,NA
+"tic",TRUE,"In Progress","https://github.com/ropensci/software-review/issues/305",2019-05-23 13:23:00,NA,NA
+"timefuzz",FALSE,NA,NA,NA,NA,NA
+"timeraster",FALSE,NA,NA,NA,NA,NA
+"tinkr",FALSE,NA,NA,NA,NA,NA
+"tl",FALSE,NA,NA,NA,NA,NA
+"trackmd",FALSE,NA,NA,NA,NA,NA
+"tRainspotting",FALSE,NA,NA,NA,NA,NA
+"travis",FALSE,NA,NA,NA,NA,NA
+"trufflesniffer",FALSE,NA,NA,NA,NA,NA
+"umapr",FALSE,NA,NA,NA,NA,NA
+"urltemplate",FALSE,NA,NA,NA,NA,NA
+"vitae",FALSE,NA,NA,NA,NA,NA
+"webmiddens",FALSE,NA,NA,NA,NA,NA
+"webrockets",FALSE,NA,NA,NA,NA,NA
+"zbank",FALSE,NA,NA,NA,NA,NA
+"zissou",FALSE,NA,NA,NA,NA,NA
+"antanym",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/198",2018-02-26 03:52:23,2018-07-13 17:14:32,2018-07-16 17:26:36
+"antiword",FALSE,NA,NA,NA,NA,NA
+"AntWeb",FALSE,NA,NA,NA,NA,NA
+"arkdb",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/224",2018-06-08 22:14:37,2018-08-01 19:17:32,2018-10-18 13:15:38
+"aRxiv",FALSE,NA,NA,NA,NA,NA
+"assertr",FALSE,NA,NA,NA,NA,NA
+"av",FALSE,NA,NA,NA,NA,NA
+"babette",FALSE,NA,NA,NA,NA,NA
+"bbox",FALSE,NA,NA,NA,NA,NA
+"beastier",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/209",2018-04-05 07:41:46,2018-11-29 14:34:42,2019-05-04 18:47:03
+"beautier",FALSE,NA,NA,NA,NA,NA
+"betty",FALSE,NA,NA,NA,NA,NA
+"bib2df",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/124",2017-06-06 18:59:01,2017-09-14 18:57:11,2017-09-15 16:07:48
+"bikedata",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/116",2017-05-31 11:35:20,2017-08-10 07:35:26,2017-08-20 13:56:04
+"binman",FALSE,NA,NA,NA,NA,NA
+"binomen",FALSE,NA,NA,NA,NA,NA
+"biomartr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/93",2017-01-25 14:41:14,2017-06-07 18:50:01,2017-06-07 19:38:51
+"bittrex",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/120",2017-06-02 20:02:27,2017-07-12 22:02:22,2017-07-14 16:29:57
+"bmc",FALSE,NA,NA,NA,NA,NA
+"bold",FALSE,NA,NA,NA,NA,NA
+"bomrang",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/121",2017-06-03 09:01:11,2017-08-28 19:04:15,2017-10-02 22:49:43
+"bowerbird",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/139",2017-08-04 02:08:58,2018-02-20 16:46:18,2018-03-03 10:42:31
+"brranching",FALSE,NA,NA,NA,NA,NA
+"camsRad",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/72",2016-08-22 13:00:03,2016-11-07 18:26:40,2016-11-07 18:33:47
+"canpaginate",FALSE,NA,NA,NA,NA,NA
+"ccafs",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/82",2016-10-27 20:00:17,2017-02-22 00:32:55,2017-02-24 18:25:32
+"cde",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/284",2019-02-25 13:51:51,2019-05-14 20:09:32,2019-05-15 22:02:41
+"charlatan",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/94",2017-01-28 01:58:29,2017-06-15 21:33:58,2017-06-24 15:24:27
+"chromer",FALSE,NA,NA,NA,NA,NA
+"citesdb",TRUE,"Completed","https://github.com/ropensci/software-review/issues/292",2019-04-05 21:07:28,2019-05-26 21:30:08,NA
+"ckanr",FALSE,NA,NA,NA,NA,NA
+"cld2",FALSE,NA,NA,NA,NA,NA
+"cld3",FALSE,NA,NA,NA,NA,NA
+"cleanEHR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/102",2017-02-21 09:12:45,2017-12-16 19:59:56,2018-01-10 19:17:57
+"clifro",FALSE,NA,NA,NA,NA,NA
+"codemetar",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/130",2017-07-05 23:38:45,2017-10-17 16:10:44,2017-11-13 12:02:40
+"colocr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/243",2018-08-06 07:48:19,2018-10-02 07:09:12,2018-11-09 08:15:39
+"comtradr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/141",2017-08-08 03:25:48,2017-10-18 20:20:59,2017-10-19 20:53:53
+"CoordinateCleaner",FALSE,NA,NA,NA,NA,NA
+"cRegulome",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/149",2017-09-06 04:03:49,2018-02-07 01:04:12,2018-02-11 08:14:01
+"crevents",FALSE,NA,NA,NA,NA,NA
+"crminer",FALSE,NA,NA,NA,NA,NA
+"crul",FALSE,NA,NA,NA,NA,NA
+"cyphr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/114",2017-05-08 14:30:55,2017-11-13 14:08:13,2017-11-28 13:46:17
+"dappr",FALSE,NA,NA,NA,NA,NA
+"dashboard",FALSE,NA,NA,NA,NA,NA
+"datapack",FALSE,NA,NA,NA,NA,NA
+"DataPackageR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/230",2018-06-18 19:44:58,2018-08-08 16:33:21,2018-08-08 19:12:25
+"DataSpaceR",TRUE,"Completed","https://github.com/ropensci/software-review/issues/261",2018-10-16 23:33:17,2019-01-31 03:36:43,2019-04-18 22:53:43
+"dbhydroR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/61",2016-08-01 20:59:48,2016-09-29 16:54:02,2016-10-10 20:37:17
+"DoOR.data",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/35",2016-04-11 14:42:07,2018-02-09 20:33:38,2018-03-06 21:50:48
+"DoOR.functions",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/34",2016-04-11 14:41:37,2018-02-09 20:33:31,2018-03-06 21:50:53
+"drake",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/156",2017-11-09 18:26:12,2018-01-25 18:40:27,2018-01-27 18:29:27
+"ecoengine",FALSE,NA,NA,NA,NA,NA
+"elastic",FALSE,NA,NA,NA,NA,NA
+"elasticdsl",FALSE,NA,NA,NA,NA,NA
+"EML",FALSE,NA,NA,NA,NA,NA
+"emld",TRUE,"Completed","https://github.com/ropensci/software-review/issues/269",2018-11-27 19:20:16,2019-02-16 00:06:54,2019-02-16 00:10:21
+"EndoMineR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/153",2017-09-22 05:39:56,2018-04-05 15:46:46,2018-04-16 20:10:24
+"epubr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/222",2018-06-05 22:27:54,2018-07-16 11:37:15,2018-07-19 13:49:24
+"essurvey",FALSE,NA,NA,NA,NA,NA
+"etseed",FALSE,NA,NA,NA,NA,NA
+"europepmc",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/29",2016-03-11 11:29:02,2016-05-31 18:17:45,2016-05-31 18:17:49
+"ezknitr",FALSE,NA,NA,NA,NA,NA
+"fauxpas",FALSE,NA,NA,NA,NA,NA
+"FedData",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/13",2015-05-06 20:53:59,2017-08-11 19:59:55,2017-08-12 15:51:01
+"finch",FALSE,NA,NA,NA,NA,NA
+"fingertipsR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/168",2017-12-08 16:27:50,2018-01-18 01:24:51,2018-01-19 15:45:12
+"ftp",FALSE,NA,NA,NA,NA,NA
+"fulltext",FALSE,NA,NA,NA,NA,NA
+"gender",FALSE,NA,NA,NA,NA,NA
+"genderdata",FALSE,NA,NA,NA,NA,NA
+"geoaxe",FALSE,NA,NA,NA,NA,NA
+"geojson",FALSE,NA,NA,NA,NA,NA
+"geojsonio",FALSE,NA,NA,NA,NA,NA
+"geojsonlint",FALSE,NA,NA,NA,NA,NA
+"geonames",FALSE,NA,NA,NA,NA,NA
+"geoops",FALSE,NA,NA,NA,NA,NA
+"geoparser",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/43",2016-05-08 06:50:03,2016-06-16 15:21:14,2016-06-16 15:44:05
+"getCRUCLdata",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/96",2017-01-30 20:54:40,2017-04-03 22:44:55,2017-04-04 17:50:14
+"getlandsat",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/58",2016-07-13 21:02:48,2016-08-15 18:41:39,2016-08-15 18:56:21
+"ghql",FALSE,NA,NA,NA,NA,NA
+"gistr",FALSE,NA,NA,NA,NA,NA
+"git2r",FALSE,NA,NA,NA,NA,NA
+"git2rdata",TRUE,"Completed","https://github.com/ropensci/software-review/issues/263",2018-11-14 17:07:34,2019-06-02 21:05:51,2019-09-03 10:50:34
+"gitignore",FALSE,NA,NA,NA,NA,NA
+"googleLanguageR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/127",2017-06-18 20:46:44,2017-09-18 11:34:55,2017-09-18 19:43:33
+"grainchanger",FALSE,NA,NA,NA,NA,NA
+"graphql",FALSE,NA,NA,NA,NA,NA
+"GSODR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/79",2016-10-14 04:06:24,2017-01-18 23:39:35,2017-01-20 02:55:29
+"gtfsr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/55",2016-06-24 23:10:44,2017-01-05 15:19:48,2017-01-05 15:20:07
+"gutenbergr",TRUE,"Completed","https://github.com/ropensci/software-review/issues/41",2016-05-02 16:54:14,2016-05-12 20:37:58,2016-05-13 14:37:51
+"handlr",FALSE,NA,NA,NA,NA,NA
+"hathi",FALSE,NA,NA,NA,NA,NA
+"hddtools",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/73",2016-09-05 20:58:47,2017-01-16 14:30:15,2017-01-17 00:13:14
+"helminthR",FALSE,NA,NA,NA,NA,NA
+"historydata",FALSE,NA,NA,NA,NA,NA
+"hoardr",FALSE,NA,NA,NA,NA,NA
+"hunspell",FALSE,NA,NA,NA,NA,NA
+"hydroscoper",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/185",2018-01-10 14:23:14,2018-03-03 11:30:15,2018-03-12 16:55:48
+"IEEER",FALSE,NA,NA,NA,NA,NA
+"iheatmapr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/107",2017-03-30 04:42:25,2017-07-17 07:14:05,2017-08-13 12:35:53
+"ijtiff",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/164",2017-12-01 14:06:54,2018-02-20 19:06:24,2018-03-06 21:53:30
+"infx",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/218",2018-05-18 13:53:01,2018-08-02 18:03:18,2018-08-03 09:25:37
+"internetarchive",FALSE,NA,NA,NA,NA,NA
+"isdparser",FALSE,NA,NA,NA,NA,NA
+"jaod",FALSE,NA,NA,NA,NA,NA
+"jenkins",FALSE,NA,NA,NA,NA,NA
+"jqr",FALSE,NA,NA,NA,NA,NA
+"jsonld",FALSE,NA,NA,NA,NA,NA
+"jsonvalidate",FALSE,NA,NA,NA,NA,NA
+"jstor",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/189",2018-01-26 19:17:29,2018-06-27 19:35:29,2018-08-26 19:38:06
+"landscapetools",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/188",2018-01-24 13:57:45,2018-03-24 16:03:53,2018-03-25 14:00:55
+"lawn",FALSE,NA,NA,NA,NA,NA
+"lingtypology",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/95",2017-01-29 17:52:01,2017-05-05 18:31:33,2017-05-06 05:30:32
+"lq",FALSE,NA,NA,NA,NA,NA
+"lumier",FALSE,NA,NA,NA,NA,NA
+"magick",FALSE,NA,NA,NA,NA,NA
+"mapr",FALSE,NA,NA,NA,NA,NA
+"mauricer",FALSE,NA,NA,NA,NA,NA
+"microdemic",FALSE,NA,NA,NA,NA,NA
+"MODISTools",TRUE,"Completed","https://github.com/ropensci/software-review/issues/246",2018-08-24 12:34:35,2019-05-17 16:58:32,2019-05-23 22:17:26
+"MODIStsp",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/184",2018-01-07 15:14:07,2018-08-03 04:24:46,2018-08-26 19:38:06
+"monkeylearn",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/45",2016-05-19 08:44:28,2016-08-05 15:19:01,2016-08-05 15:42:42
+"mregions",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/53",2016-06-16 17:08:19,2016-08-02 16:16:48,2016-08-02 16:32:52
+"MtreeRing",TRUE,"Completed","https://github.com/ropensci/software-review/issues/287",2019-03-02 07:21:10,2019-05-19 13:21:25,2019-05-20 16:12:31
+"musemeta",FALSE,NA,NA,NA,NA,NA
+"mutant",FALSE,NA,NA,NA,NA,NA
+"nasapower",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/155",2017-11-04 12:53:52,2018-09-24 19:05:54,2018-09-25 17:04:31
+"natserv",FALSE,NA,NA,NA,NA,NA
+"nbaR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/257",2018-10-04 16:04:50,2019-05-21 16:06:20,2019-06-24 19:05:10
+"neotoma",FALSE,NA,NA,NA,NA,NA
+"NLMR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/188",2018-01-24 13:57:45,2018-03-24 16:03:53,2018-03-25 14:00:55
+"nlrx",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/262",2018-10-19 12:40:33,2019-01-15 17:35:28,2019-01-16 20:37:28
+"nodbi",FALSE,NA,NA,NA,NA,NA
+"nomisr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/190",2018-01-30 21:49:32,2018-04-16 20:18:30,2018-04-18 17:16:22
+"oai",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/19",2015-08-21 18:37:15,2015-10-21 21:07:23,2015-10-21 21:07:18
+"onekp",FALSE,NA,NA,NA,NA,NA
+"opencage",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/36",2016-04-12 20:03:00,2016-05-03 18:08:05,2016-05-03 18:49:29
+"opencontext",FALSE,NA,NA,NA,NA,NA
+"opencv",FALSE,NA,NA,NA,NA,NA
+"originr",FALSE,NA,NA,NA,NA,NA
+"osmdata",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/103",2017-03-08 16:43:46,2017-05-23 16:42:48,2017-05-23 16:49:56
+"osmplotr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/27",2016-03-04 11:48:46,2016-05-13 20:46:18,2016-05-19 23:00:24
+"ots",FALSE,NA,NA,NA,NA,NA
+"outcomerate",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/213",2018-04-28 19:36:54,2018-08-31 16:19:08,2018-09-08 19:42:31
+"paleobioDB",FALSE,NA,NA,NA,NA,NA
+"pangaear",FALSE,NA,NA,NA,NA,NA
+"patentsview",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/112",2017-04-25 23:50:25,2017-06-15 15:13:11,2017-06-19 15:03:36
+"pdftools",FALSE,NA,NA,NA,NA,NA
+"phylocomr",FALSE,NA,NA,NA,NA,NA
+"phylogram",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/212",2018-04-24 06:06:32,2018-06-12 22:15:04,2018-06-26 16:13:07
+"phylotaR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/187",2018-01-23 13:07:53,2018-07-12 17:28:33,2018-07-24 14:50:46
+"piggyback",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/220",2018-05-30 20:43:30,2018-09-21 08:21:30,2018-09-24 17:05:34
+"plater",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/60",2016-07-26 15:57:31,2016-09-28 20:44:16,2016-10-04 22:31:22
+"pleiades",FALSE,NA,NA,NA,NA,NA
+"plotdap",FALSE,NA,NA,NA,NA,NA
+"plotly",FALSE,NA,NA,NA,NA,NA
+"popler",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/254",2018-10-01 14:58:35,2019-07-04 18:46:16,NA
+"PostcodesioR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/176",2018-01-02 21:06:42,2018-04-17 20:53:51,2018-04-17 22:46:40
+"prism",FALSE,NA,NA,NA,NA,NA
+"pubchunks",FALSE,NA,NA,NA,NA,NA
+"qpdf",FALSE,NA,NA,NA,NA,NA
+"qualtRics",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/192",2018-02-04 10:20:26,2018-04-09 03:59:33,2018-04-16 19:57:10
+"rAltmetric",FALSE,NA,NA,NA,NA,NA
+"ramlegacy",TRUE,"Completed","https://github.com/ropensci/software-review/issues/264",2018-11-21 06:23:49,2019-03-15 21:48:08,2019-05-08 21:06:32
+"randgeo",FALSE,NA,NA,NA,NA,NA
+"rAvis",FALSE,NA,NA,NA,NA,NA
+"rbace",FALSE,NA,NA,NA,NA,NA
+"rbhl",FALSE,NA,NA,NA,NA,NA
+"rbison",FALSE,NA,NA,NA,NA,NA
+"rbraries",FALSE,NA,NA,NA,NA,NA
+"rcites",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/244",2018-08-15 07:08:12,2018-11-14 17:15:15,2018-11-27 19:55:17
+"rcoreoa",FALSE,NA,NA,NA,NA,NA
+"rcrossref",FALSE,NA,NA,NA,NA,NA
+"rdatacite",FALSE,NA,NA,NA,NA,NA
+"rdataretriever",FALSE,NA,NA,NA,NA,NA
+"rdefra",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/68",2016-08-08 16:44:02,2016-09-12 22:25:53,2016-10-06 21:01:36
+"rdflib",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/169",2017-12-12 01:45:59,2018-02-20 17:33:06,2018-02-21 20:38:34
+"rdhs",TRUE,"Completed","https://github.com/ropensci/software-review/issues/238",2018-07-20 17:45:00,2018-12-04 17:29:04,2018-12-10 22:30:47
+"rdopa",FALSE,NA,NA,NA,NA,NA
+"rdpla",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/71",2016-08-16 22:44:24,2016-10-13 21:15:31,2016-10-25 03:35:46
+"rdryad",FALSE,NA,NA,NA,NA,NA
+"rebird",FALSE,NA,NA,NA,NA,NA
+"reeack",FALSE,NA,NA,NA,NA,NA
+"refimpact",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/78",2016-10-03 07:02:57,2017-07-14 20:10:32,2017-07-17 20:22:50
+"RefManageR",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/119",2017-06-02 14:59:34,2017-07-27 15:23:12,2017-10-18 23:43:23
+"rentrez",FALSE,NA,NA,NA,NA,NA
+"rerddap",FALSE,NA,NA,NA,NA,NA
+"restez",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/232",2018-06-27 15:14:32,2018-11-14 17:24:09,2018-11-26 20:46:22
+"reuropeana",FALSE,NA,NA,NA,NA,NA
+"rfigshare",FALSE,NA,NA,NA,NA,NA
+"rfishbase",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/137",2017-07-20 21:50:37,2017-07-20 21:50:37,2017-07-20 22:32:16
+"rfisheries",FALSE,NA,NA,NA,NA,NA
+"rflybase",FALSE,NA,NA,NA,NA,NA
+"rfna",FALSE,NA,NA,NA,NA,NA
+"rgbif",FALSE,NA,NA,NA,NA,NA
+"rglobi",FALSE,NA,NA,NA,NA,NA
+"rgpdd",FALSE,NA,NA,NA,NA,NA
+"riem",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/39",2016-04-25 13:50:03,2016-05-25 13:19:59,2016-05-25 13:19:59
+"rif",FALSE,NA,NA,NA,NA,NA
+"rinat",FALSE,NA,NA,NA,NA,NA
+"ritis",FALSE,NA,NA,NA,NA,NA
+"rjsonapi",FALSE,NA,NA,NA,NA,NA
+"rmangal",TRUE,"Completed","https://github.com/ropensci/software-review/issues/332",2019-07-30 19:52:36,2019-09-08 15:20:52,NA
+"rnassqs",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/298",2019-05-04 02:17:07,2019-08-15 15:35:15,2019-08-15 15:42:30
+"rnaturalearth",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/22",2015-11-26 15:35:21,2016-06-14 14:13:30,2016-06-14 15:49:11
+"rnaturalearthdata",FALSE,NA,NA,NA,NA,NA
+"rnaturalearthhires",FALSE,NA,NA,NA,NA,NA
+"RNeXML",FALSE,NA,NA,NA,NA,NA
+"rnoaa",FALSE,NA,NA,NA,NA,NA
+"rnpn",FALSE,NA,NA,NA,NA,NA
+"roadoi",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/115",2017-05-17 16:23:09,2017-07-14 21:30:32,2017-07-17 20:23:34
+"robotstxt",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/25",2016-01-09 20:17:17,2016-04-27 07:28:55,2016-04-27 17:45:15
+"rodev",FALSE,NA,NA,NA,NA,NA
+"ropenaq",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/24",2015-12-31 12:44:46,2016-04-20 16:15:33,2016-04-20 16:16:08
+"rorcid",FALSE,NA,NA,NA,NA,NA
+"rotemplate",FALSE,NA,NA,NA,NA,NA
+"rotl",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/17",2015-06-16 23:47:03,2015-07-20 20:38:26,2015-07-20 21:40:51
+"rperseus",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/145",2017-08-20 18:27:10,2017-10-30 22:00:01,2017-12-14 20:34:42
+"rplos",FALSE,NA,NA,NA,NA,NA
+"Rpolyhedra",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/157",2017-11-09 21:01:50,2019-02-25 01:25:06,2019-05-04 18:46:00
+"rppo",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/207",2018-03-31 02:23:03,2018-05-31 14:46:48,2018-06-01 10:54:50
+"rredlist",FALSE,NA,NA,NA,NA,NA
+"rrlite",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/6",2015-03-31 00:25:14,2017-01-17 05:00:58,2015-04-13 23:26:38
+"rromeo",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/285",2019-02-26 17:03:31,2019-04-29 17:25:24,2019-05-03 17:38:50
+"rrricanes",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/118",2017-06-01 19:17:01,2017-07-23 13:10:54,2017-07-27 13:31:41
+"rrricanesdata",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/118",2017-06-01 19:17:01,2017-07-23 13:10:54,2017-07-27 13:31:41
+"RSelenium",FALSE,NA,NA,NA,NA,NA
+"rsnps",FALSE,NA,NA,NA,NA,NA
+"rtika",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/191",2018-01-31 01:49:34,2018-03-12 01:20:07,2018-03-12 19:23:08
+"rtimicropem",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/126",2017-06-14 11:42:28,2017-07-17 20:42:49,2017-07-18 15:54:29
+"rusda",FALSE,NA,NA,NA,NA,NA
+"rvertnet",FALSE,NA,NA,NA,NA,NA
+"rWBclimate",FALSE,NA,NA,NA,NA,NA
+"rzmq",FALSE,NA,NA,NA,NA,NA
+"scrubr",FALSE,NA,NA,NA,NA,NA
+"seaaroundus",FALSE,NA,NA,NA,NA,NA
+"skimr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/175",2017-12-20 14:58:11,2018-06-25 19:42:44,2018-07-01 05:35:57
+"skynet",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/214",2018-04-30 13:48:43,2018-06-27 19:10:44,2019-05-02 16:32:18
+"smapr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/231",2018-06-20 22:05:08,2018-08-03 11:56:00,2018-08-03 19:45:55
+"sofa",FALSE,NA,NA,NA,NA,NA
+"solrium",FALSE,NA,NA,NA,NA,NA
+"spatsoc",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/237",2018-07-17 00:14:07,2018-10-26 15:30:24,2018-10-26 15:36:34
+"spelling",FALSE,NA,NA,NA,NA,NA
+"spocc",FALSE,NA,NA,NA,NA,NA
+"ssh",FALSE,NA,NA,NA,NA,NA
+"stats19",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/266",2018-11-23 09:23:24,2019-01-09 18:19:45,2019-01-15 17:21:04
+"staypuft",FALSE,NA,NA,NA,NA,NA
+"stplanr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/10",2015-04-08 23:56:17,2015-10-27 15:59:19,2015-10-29 14:14:35
+"suppdata",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/195",2018-02-07 20:52:50,2018-04-29 18:29:09,2018-05-02 20:35:10
+"tabulizer",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/42",2016-05-07 14:40:13,2016-08-17 18:58:31,2016-08-18 14:33:46
+"tabulizerjars",FALSE,NA,NA,NA,NA,NA
+"tacmagic",TRUE,"Completed","https://github.com/ropensci/software-review/issues/280",2019-01-25 15:41:12,2019-02-25 10:38:14,2019-02-27 10:28:24
+"taxa",FALSE,NA,NA,NA,NA,NA
+"taxize",FALSE,NA,NA,NA,NA,NA
+"taxizedb",FALSE,NA,NA,NA,NA,NA
+"taxview",FALSE,NA,NA,NA,NA,NA
+"tesseract",FALSE,NA,NA,NA,NA,NA
+"textreuse",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/20",2015-09-18 01:56:29,2015-10-29 16:55:07,2015-10-30 00:35:51
+"tidyhydat",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/152",2017-09-13 22:53:31,2017-11-04 16:09:32,2017-12-15 00:41:45
+"tidync",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/174",2017-12-19 04:39:14,2019-05-13 18:00:15,2019-05-15 22:02:18
+"tidypmc",FALSE,NA,NA,NA,NA,NA
+"tif",FALSE,NA,NA,NA,NA,NA
+"tiler",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/226",2018-06-12 14:44:54,2018-11-05 23:40:33,2018-11-08 20:08:51
+"tokenizers",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/33",2016-04-04 02:53:12,2016-08-12 16:09:37,2016-08-12 17:02:59
+"tracerer",FALSE,NA,NA,NA,NA,NA
+"tradestatistics",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/274",2019-01-03 21:14:13,2019-04-03 10:56:39,2019-04-05 08:35:56
+"traits",FALSE,NA,NA,NA,NA,NA
+"treebase",FALSE,NA,NA,NA,NA,NA
+"treestartr",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/239",2018-07-23 21:58:21,2018-11-15 19:40:42,2018-11-27 19:55:24
+"UCSCXenaTools",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/315",2019-06-18 06:50:05,2019-07-28 20:59:20,2019-08-05 21:26:42
+"unrtf",FALSE,NA,NA,NA,NA,NA
+"USAboundaries",FALSE,NA,NA,NA,NA,NA
+"USAboundariesData",FALSE,NA,NA,NA,NA,NA
+"vcr",FALSE,NA,NA,NA,NA,NA
+"virtuoso",TRUE,"Completed","https://github.com/ropensci/software-review/issues/271",2018-12-04 07:47:43,2019-02-19 16:44:22,2019-02-27 10:29:21
+"visdat",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/87",2017-01-04 04:04:34,2017-07-31 13:40:08,2017-08-01 13:49:13
+"wateRinfo",FALSE,NA,NA,NA,NA,NA
+"wdman",FALSE,NA,NA,NA,NA,NA
+"weathercan",TRUE,"Completed","https://github.com/ropensci/onboarding/issues/160",2017-11-24 18:36:42,2018-01-30 01:29:20,2018-01-30 18:03:52
+"webchem",FALSE,NA,NA,NA,NA,NA
+"webmockr",FALSE,NA,NA,NA,NA,NA
+"wellknown",FALSE,NA,NA,NA,NA,NA
+"wicket",FALSE,NA,NA,NA,NA,NA
+"wikitaxa",FALSE,NA,NA,NA,NA,NA
+"worrms",FALSE,NA,NA,NA,NA,NA
+"writexl",FALSE,NA,NA,NA,NA,NA
+"xslt",FALSE,NA,NA,NA,NA,NA
